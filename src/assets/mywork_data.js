@@ -1,4 +1,4 @@
-import project1_img from "../assets/afrin.jpeg";
+import project1_img from "../assets/proj1.svg";
 import project2_img from "../assets/project_2.svg";
 import project3_img from "../assets/project_3.svg";
 import project4_img from "../assets/project_4.svg";
@@ -10,7 +10,7 @@ const mywork_data = [
     w_no: 1,
     w_name: "Web design",
     w_img: project1_img,
-    git_link: "git",
+    git_link: "",
     deployed_link: "Project url",
   },
   {

@@ -8,7 +8,7 @@ const Hero = () => {
     <div id="home" className="hero">
       {/* <img src={profile_img} alt="" className='profile-img' /> */}
       <h1>
-        <span>I'm Afrin Shaikh,</span> frontend developer based in India
+        <span>I'm Afrin Shaikh,</span> Frontend Developer based in India
       </h1>
       {/* <p>I am a frontend developer from Mumbai, USA with 10 years of experience in multiple companies like Microsoft, Tesla and Apple.</p> */}
       <div className="hero-action">
