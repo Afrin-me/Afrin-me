@@ -4,11 +4,11 @@
 
 </h3>
 
-- 🌱 I’m currently working as *Frontend Developer At Wunderman Thompson Studios Delhi*
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Afrin-me](https://github.com/Afrin-me)
 
-- 💬 Ask me about *Javascript , Data structure , Algorithm , HTML , CSS  , CLI-Bash , React.*
+- 💬 Ask me about *Javascript , Data structure , Algorithm , HTML , CSS  , React , Redux.*
 
 - 📫 How to reach me LinkedIn * <a color = "red" href="https://www.linkedin.com/in/prashant-tiwari-765444216/">LinkedIn</a> *
 
