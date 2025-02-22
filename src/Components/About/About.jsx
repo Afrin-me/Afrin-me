@@ -1,8 +1,7 @@
-import React from 'react'
-import './About.css'
-import theme_pattern from '../../assets/theme_pattern.svg'
-import profile_img from '../../assets/afrin.jpeg'
-
+import React from "react";
+import "./About.css";
+import theme_pattern from "../../assets/theme_pattern.svg";
+import profile_img from "../../assets/afrin.jpeg";
 
 const About = () => {
   return (
@@ -13,7 +12,7 @@ const About = () => {
       </div>
       <div className="about-sections">
         <div className="about-left">
-          <img src="afrin.jpeg" alt="" />
+          <img src={profile_img} alt="" />
         </div>
         <div className="about-right">
           <div className="about-para">
@@ -32,12 +31,12 @@ const About = () => {
           <div className="about-skills">
             <div className="about-skill">
               <p>React JS</p>
-              <hr style={{ width: "60%" }} />
+              <hr style={{ width: "85%" }} />
             </div>
 
             <div className="about-skill">
               <p>JavaScript</p>
-              <hr style={{ width: "60%" }} />
+              <hr style={{ width: "83%" }} />
             </div>
 
             <div className="about-skill">
@@ -47,7 +46,7 @@ const About = () => {
 
             <div className="about-skill">
               <p>Node JS</p>
-              <hr style={{ width: "50%" }} />
+              <hr style={{ width: "70%" }} />
             </div>
           </div>
         </div>
@@ -62,14 +61,9 @@ const About = () => {
           <h1>5+</h1>
           <p>PROJECTS COMPLETED</p>
         </div>
-
-        {/* <div className="about-achievement">
-            <h1>15+</h1>
-            <p>HAPPY CLIENTS</p>
-        </div> */}
       </div>
     </div>
   );
-}
+};
 
-export default About
+export default About;

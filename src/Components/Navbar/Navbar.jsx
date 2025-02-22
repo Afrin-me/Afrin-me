@@ -41,10 +41,10 @@ const Navbar = () => {
           {menu === "about" ? <img src={underline} alt="" /> : <></>}
         </li>
         <li>
-          <AnchorLink className="anchor-link" offset={50} href="#skills">
-            <p onClick={() => setMenu("skills")}>Skills</p>
+          <AnchorLink className="anchor-link" offset={50} href="#services">
+            <p onClick={() => setMenu("services")}>Skills</p>
           </AnchorLink>
-          {menu === "skills" ? <img src={underline} alt="" /> : <></>}
+          {menu === "services" ? <img src={underline} alt="" /> : <></>}
         </li>
         <li>
           <AnchorLink className="anchor-link" offset={50} href="#resume">
